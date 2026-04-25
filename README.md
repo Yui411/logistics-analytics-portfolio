@@ -8,7 +8,7 @@ This project covers the full data pipeline — from data generation to visualiza
 ## Architecture
 
 ![Architecture](docs/architecture.png)
-![Architecture](docs/dataflow.png.png)
+![Dataflow](docs/dataflow.png)
 
 | Service | Role |
 |---|---|
